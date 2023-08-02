@@ -6,7 +6,7 @@
 
 # Relp ✨
 
-![GitHub stars](https://img.shields.io/github/stars/Sanyam4007/Zhare) ![GitHub contributors](https://img.shields.io/github/contributors/Sanyam4007/Zhare ![GitHub issues](https://img.shields.io/github/issues/Sanyam4007/Zhare)  [![GitHub license](https://img.shields.io/github/license/Sanyam4007/Zhare)](https://github.com/Sanyam4007/Zhare/blob/master/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/Sanyam4007/Zhare) ![GitHub contributors](https://img.shields.io/github/contributors/Sanyam4007/Zhare) ![GitHub issues](https://img.shields.io/github/issues/Sanyam4007/Zhare)  [![GitHub license](https://img.shields.io/github/license/Sanyam4007/Zhare)](https://github.com/Sanyam4007/Zhare/blob/master/LICENSE)
 
 Relp - a web messenger. Enjoy free text chat, voice call, file sharing. 
 
