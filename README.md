@@ -6,13 +6,11 @@
 
 # Relp ✨
 
-![GitHub stars](https://img.shields.io/github/stars/vj-abishek/airdrop) ![GitHub contributors](https://img.shields.io/github/contributors/vj-abishek/airdrop) ![GitHub issues](https://img.shields.io/github/issues/vj-abishek/airdrop)  [![GitHub license](https://img.shields.io/github/license/vj-abishek/airdrop)](https://github.com/vj-abishek/airdrop/blob/master/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/Sanyam4007/Zhare) ![GitHub contributors](https://img.shields.io/github/contributors/Sanyam4007/Zhare ![GitHub issues](https://img.shields.io/github/issues/Sanyam4007/Zhare)  [![GitHub license](https://img.shields.io/github/license/Sanyam4007/Zhare)](https://github.com/Sanyam4007/Zhare/blob/master/LICENSE)
 
 Relp - a web messenger. Enjoy free text chat, voice call, file sharing. 
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/43115551/99625343-0c7ced80-2a56-11eb-8791-01fb8bfe1d76.png">
-</p>
+
 
 ### Features
 
@@ -65,3 +63,5 @@ Hosted demo will be available soon team is on it
 ### Copyright
 
 Licensed under the [MIT LICENSE](LICENSE)
+
+###Made with ♥️ in india
